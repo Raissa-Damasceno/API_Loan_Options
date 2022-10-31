@@ -1,0 +1,23 @@
+{
+  "name": "api_loan_options",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raissa-Damasceno/Api_loan_options.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raissa-Damasceno/Api_loan_options/issues"
+  },
+  "homepage": "https://github.com/Raissa-Damasceno/Api_loan_options#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
